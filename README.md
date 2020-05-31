@@ -2,6 +2,7 @@
 This is a very easy to use brute force password cracker. Whose password is stored in a textfile.
 
 #### Contents:
+                Name of python script:decryptR.py
                 The default zip file to crack is set to:'uncracked.zip'
                 The default wordlist file is set to:'PassW.txt'
                 
